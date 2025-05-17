@@ -1,5 +1,6 @@
 # 🔐 PRODIGY_CS_03 — Cybersecurity Task 3: Password Complexity Checker
----
+
+This is Task 3 of the Cybersecurity track from Prodigy Infotech.
 
 ## 📌 Project Overview
 
