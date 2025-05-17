@@ -46,7 +46,7 @@ The script not only provides a **strength rating** (Weak, Medium, Strong) but al
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PRODIGY_CS_03.git
+git clone https://github.com/Jetlin_Figarez/PRODIGY_CS_03.git
 cd PRODIGY_CS_03
 
 # 2. Run the script
